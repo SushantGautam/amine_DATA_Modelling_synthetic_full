@@ -1,0 +1,25 @@
+{
+    "tables": {
+        "v1": {
+            "columns": {
+                "t (mm)": {
+                    "sdtype": "numerical"
+                },
+                "d (mm)": {
+                    "sdtype": "numerical"
+                },
+                "fy (MPa)": {
+                    "sdtype": "numerical"
+                },
+                "E (MPa)": {
+                    "sdtype": "numerical"
+                },
+                "Mu (kN\u22c5m)": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
