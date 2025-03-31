@@ -1,0 +1,46 @@
+{
+    "tables": {
+        "v1": {
+            "columns": {
+                "Yrs": {
+                    "sdtype": "numerical"
+                },
+                "pH": {
+                    "sdtype": "numerical"
+                },
+                "V": {
+                    "sdtype": "numerical"
+                },
+                "Res": {
+                    "sdtype": "numerical"
+                },
+                "H2O": {
+                    "sdtype": "numerical"
+                },
+                "BD": {
+                    "sdtype": "numerical"
+                },
+                "Cl": {
+                    "sdtype": "numerical"
+                },
+                "HCO3": {
+                    "sdtype": "numerical"
+                },
+                "SO4": {
+                    "sdtype": "numerical"
+                },
+                "Redox": {
+                    "sdtype": "numerical"
+                },
+                "Coat": {
+                    "sdtype": "numerical"
+                },
+                "Pit": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
